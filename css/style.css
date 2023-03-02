@@ -1,15 +1,15 @@
-.masthead{
+.mastHead{
     background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%,  rgba(0, 0, 0, 0.8) 70%,  rgba(0, 0, 0, 0) 100%); 
     position: fixed;
     right: 0;
     left: 0;
 }
 
-.masthead ul{
+.mastHead ul{
     padding: 0;
 }
 
-.masthead li {
+.mastHead li {
     list-style: none;
     display: block;
     float: left;
@@ -19,7 +19,7 @@
     font-weight: bold;
 }
 
-.mainnav{
+.mainNav{
     display: flex;
     justify-content: center;
 }
